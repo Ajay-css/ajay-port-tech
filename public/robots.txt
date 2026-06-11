@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ajay-port-tech.vercel.app/sitemap.xml
