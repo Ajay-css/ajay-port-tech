@@ -140,10 +140,12 @@ function About() {
         {/* RIGHT */}
         <div className="relative
     mt-44
+    mb-24
     flex
     justify-center
 
-    lg:mt-0">
+    lg:mt-0
+    lg:mb-0">
           <IDCard
             strap={strap}
             logo={logo}

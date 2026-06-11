@@ -76,9 +76,9 @@ function TerminalWindow({ show }) {
       {/* Header */}
       <div className="flex items-center border-b border-zinc-800 px-5 py-4">
         <div className="flex gap-2">
-          <div className="h-4 w-4 rounded-full bg-[#ff5f57]" />
-          <div className="h-4 w-4 rounded-full bg-[#febc2e]" />
-          <div className="h-4 w-4 rounded-full bg-[#28c840]" />
+          <div className="h-3 w-3 lg:h-4 lg:w-4 rounded-full bg-[#ff5f57]" />
+          <div className="h-3 w-3 lg:h-4 lg:w-4 rounded-full bg-[#febc2e]" />
+          <div className="h-3 w-3 lg:h-4 lg:w-4 rounded-full bg-[#28c840]" />
         </div>
 
         <div className="absolute left-1/2 -translate-x-1/2 text-xs tracking-[0.2em] text-zinc-500">
