@@ -59,7 +59,7 @@ const skillGroups = [
   },
 
   {
-    title: "UBDA",
+    title: "UBBD",
     img: UB,
     subtitle: "Union Bank of Backend Development",
     skills: [
